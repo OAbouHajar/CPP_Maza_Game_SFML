@@ -1,0 +1,38 @@
+﻿  SFML_EX.cpp
+d:\it carlow\year3\c++\project\sfml_maze_ca\sfml_ex\sfml_ex.cpp(68): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+d:\it carlow\year3\c++\project\sfml_maze_ca\sfml_ex\sfml_ex.cpp(69): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+d:\it carlow\year3\c++\project\sfml_maze_ca\sfml_ex\sfml_ex.cpp(133): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+d:\it carlow\year3\c++\project\sfml_maze_ca\sfml_ex\sfml_ex.cpp(134): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+d:\it carlow\year3\c++\project\sfml_maze_ca\sfml_ex\sfml_ex.cpp(406): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+d:\it carlow\year3\c++\project\sfml_maze_ca\sfml_ex\sfml_ex.cpp(579): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+d:\it carlow\year3\c++\project\sfml_maze_ca\sfml_ex\sfml_ex.cpp(580): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+d:\it carlow\year3\c++\project\sfml_maze_ca\sfml_ex\sfml_ex.cpp(647): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\it carlow\year3\c++\project\sfml_maze_ca\sfml_ex\sfml_ex.cpp(657): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\it carlow\year3\c++\project\sfml_maze_ca\sfml_ex\sfml_ex.cpp(407): warning C4101: 'randomNum': unreferenced local variable
+d:\it carlow\year3\c++\project\sfml_maze_ca\sfml_ex\sfml_ex.cpp(110): warning C4715: 'Enemy::moveEnemy': not all control paths return a value
+d:\it carlow\year3\c++\project\sfml_maze_ca\sfml_ex\sfml_ex.cpp(175): warning C4715: 'Player::movePlayer': not all control paths return a value
+  SFML_EX.vcxproj -> D:\IT Carlow\Year3\C++\Project\SFML_MAZE_CA\Debug\SFML_EX.exe
